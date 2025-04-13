@@ -126,7 +126,7 @@ cv.putText(img, info, (10, 25), cv.FONT_HERSHEY_DUPLEX, 0.6, (0, 255, 0))
 ```
 
 ### 결과
-![결과 사진]()
+![결과 사진](Pyramid.png)
 
 
 ### 실행 방법
